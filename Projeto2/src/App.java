@@ -10,5 +10,6 @@ public class App {
         Professor p = new Professor(nome, experiencia);
         System.out.println(p.toString());
         System.out.println("Categoria: " + p.classifica());
+        System.out.println("Branch nova-feature em ação!");
     }
 }
